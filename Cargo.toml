@@ -1,0 +1,8 @@
+[package]
+name = "option_size"
+version = "0.1.0"
+authors = ["Hiroaki Nakamura <hnakamur@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+libc = "*"
